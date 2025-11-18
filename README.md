@@ -1,8 +1,3 @@
-# React + Vite
+# Small Scale Business
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    This application is mainly focus on the small scale business. It is designed to help small-scale business owners such as tailors, artisans, and other local workers share job opportunities with people around their area. Through this platform, users can view nearby jobs posted by these businesses and learn about details like the work type, required skills, salary, and location. The application also allows anyone to add new job postings by submitting basic information about the work they offer. By connecting local job providers with job seekers, this project aims to support small-scale workers and make employment opportunities more accessible within surrounding communities.
