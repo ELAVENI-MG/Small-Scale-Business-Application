@@ -1,3 +1,8 @@
 # Small Scale Business
 
-    This application is mainly focus on the small scale business. It is designed to help small-scale business owners such as tailors, artisans, and other local workers share job opportunities with people around their area. Through this platform, users can view nearby jobs posted by these businesses and learn about details like the work type, required skills, salary, and location. The application also allows anyone to add new job postings by submitting basic information about the work they offer. By connecting local job providers with job seekers, this project aims to support small-scale workers and make employment opportunities more accessible within surrounding communities.
+    * This application is mainly focus on the small scale business. 
+    * It is designed to help small-scale business owners such as tailors, artisans, and other local workers share job opportunities with people around their area. 
+    * Through this platform, users can view nearby jobs posted by these businesses and learn about details like the work type, required skills, salary, and location. 
+    * The application also allows anyone to add new job postings by submitting basic information about the work they offer. 
+    * By connecting local job providers with job seekers, this project aims to support small-scale workers and make employment 
+    opportunities more accessible within surrounding communities.
